@@ -169,3 +169,86 @@ body:has(.image-dialog[open]) { overflow: hidden; }
     html { scroll-behavior: auto; }
     *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+
+/* Editorial refinement — restrained hierarchy, generous rhythm, tactile details */
+:root { --bg: #151719; --panel: #1c1f22; --text: #f1f0ed; --muted: #a2a5a9; --line: #383b3e; --blue: #c0c9b5; }
+body { font-size: 14px; }
+.site-header { background: #151719; }
+.site-nav { padding-top: 48px; }
+.logo { font-weight: 700; letter-spacing: -.055em; }
+.logo-period, .heading-dot, .hero-period { color: var(--blue); }
+.nav-links { margin-top: 110px; }
+.nav-links a { font-size: 12px; letter-spacing: .02em; }
+main { max-width: 1540px; padding-inline: clamp(28px, 5vw, 88px); }
+.hero-section { padding-top: clamp(48px, 8vw, 112px); padding-bottom: clamp(68px, 9vw, 130px); }
+.hero-image-container { gap: 38px; }
+.hero-text { column-gap: 24px; }
+.hero-kicker { display: flex; align-items: center; gap: 24px; font-size: 12px; letter-spacing: .04em; margin-bottom: 27px; }
+.eyebrow-index, .project-number { font: 500 10px/1.6 var(--heading); color: var(--blue); letter-spacing: .14em; }
+.hero-text h1 { font-weight: 500; font-size: clamp(76px, 10vw, 160px); line-height: .96; letter-spacing: -.085em; }
+.hero-description { font-size: 13px; margin-top: 37px; letter-spacing: .01em; }
+.hero-description-en { color: #868d90; font-size: 11px; }
+.hero-image { max-height: 630px; width: 100%; object-fit: cover; aspect-ratio: 2 / 1; filter: saturate(.74); transition: filter .5s ease; }
+.hero-image:hover { filter: saturate(.94); }
+.hero-cta { min-width: 172px; }
+.content-section { padding-block: clamp(76px, 9vw, 132px); }
+.content-section > h2, .section-title-wrapper h2 { margin-bottom: 22px; }
+h2 { font-size: clamp(38px, 4.3vw, 67px); font-weight: 500; }
+.section-description, .section-lead { font-size: 13px; margin-bottom: 43px; }
+#about { padding-block: 54px; }
+#about h2 { font-size: 30px; }
+.about-content p { font-size: 14px; }
+.music-grid .music-card { padding: 32px 0; }
+.music-grid .music-card h3 { font-size: 17px; }
+.image-grid { column-gap: 24px; }
+.image-card { margin-bottom: 35px; }
+.image-card:nth-child(1) { break-after: avoid; }
+.image-card figcaption { font-size: 11px; letter-spacing: .03em; }
+.image-card button { background: #222426; }
+.image-card button:focus-visible { outline: 2px solid var(--blue); outline-offset: 4px; }
+.game-content { padding-block: 43px; }
+.game-info .project-number { color: var(--blue); margin-bottom: 14px; font-size: 10px; }
+.game-info h3 { font-size: clamp(24px, 2.7vw, 39px); }
+.game-info p:not(.project-number) { font-size: 13px; }
+.game-content .button-link { min-width: 145px; }
+.button-link { transition: color .2s, border-color .2s, gap .2s; }
+.button-link:hover { gap: 36px; }
+#newqolo { gap: 0 65px; }
+.qolo-highlight-list { gap: 26px; }
+#downloads { padding-block: 58px; }
+#downloads h2 { font-size: 32px; }
+footer { padding-block: 36px; }
+@media (min-width: 1630px) { main { padding-left: 280px; } }
+@media (max-width: 1100px) {
+  .site-nav { padding: 18px 5%; }
+  .nav-links { margin-top: 0; }
+  main { padding-inline: 5%; }
+  .hero-section { padding-top: 55px; }
+  .hero-text h1 { font-size: clamp(65px, 11vw, 112px); }
+}
+@media (max-width: 760px) {
+  .site-nav { align-items: flex-start; }
+  .nav-links { justify-content: flex-start; overflow-x: auto; flex-wrap: nowrap; padding-bottom: 6px; gap: 22px; scrollbar-width: thin; }
+  .nav-links li { flex-shrink: 0; }
+  .nav-links a { font-size: 11px; white-space: nowrap; min-height: 32px; }
+  .hero-section { padding-top: 44px; }
+  .hero-image { aspect-ratio: 4 / 3; }
+  .hero-text h1 { font-size: clamp(64px, 12vw, 86px); }
+  .hero-description-en { display: block; margin-top: 6px; }
+  .content-section { padding-block: 68px; }
+  #newqolo { gap: 0; }
+  .image-grid { columns: 2; column-gap: 14px; }
+}
+@media (max-width: 480px) {
+  .hero-kicker { gap: 14px; font-size: 11px; }
+  .eyebrow-index { font-size: 9px; }
+  .hero-text h1 { font-size: clamp(62px, 15vw, 80px); }
+  .hero-image { aspect-ratio: 5 / 4; }
+  .hero-description { margin-top: 26px; }
+  .hero-cta { margin-top: 30px; }
+  .image-card { margin-bottom: 20px; }
+  .game-content { padding-block: 33px; }
+  #about h2 { font-size: 29px; }
+}
+@media (prefers-reduced-motion: reduce) { .hero-image { transition: none; } }
