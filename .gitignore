@@ -1,0 +1,6 @@
+node_modules/
+.godot/
+.DS_Store
+Thumbs.db
+*.log
+.design-check.json

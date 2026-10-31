@@ -1,0 +1,867 @@
+名詞
+
+afdara：平和
+
+aqira：家族
+
+cawri：心
+
+dar：月
+
+dek：子供
+
+don：お金
+
+fama：父親
+
+fon：雨
+
+frus：川
+
+gara：山
+
+ikan：魚
+
+kimera：夢
+
+kizna：絆
+
+kod：花
+
+kniga：本
+
+kawz：ソファー
+
+madur：人
+
+mis：猫
+
+misor：笑顔
+
+mama：母親
+
+muskan：音楽
+
+nepis：空
+
+nunbora：吹雪
+
+okan：海
+
+param：風
+
+prasad：塔
+
+pud：植物
+
+pyor：星
+
+qawa：コーヒー
+
+rede：乳
+
+renga: 言語
+
+rok：世界
+
+suci：寿司
+
+sande：調子
+
+sored：牛乳
+
+winda：冬
+
+wergon：恥
+
+woyna：戦争
+
+wonsun: 猿
+
+xanwar：動物
+
+yukzi：陸
+
+zaqid：時間
+
+zigam：財布
+
+zom: 最初
+
+zoma: 夏
+
+cmerz: 痛み
+
+dinadan: 特別な人
+
+fanzi: 犯罪
+
+gifd: 毒
+
+gowr: 鏡
+
+goxid: 嘘
+
+isara: 自由
+
+kran: 音
+
+ne: 年
+
+oke: 肩
+
+pahimakas: 最後の別れ
+
+qerposd: 秋
+
+rafmis：虎
+
+sekar: 色
+
+zig: 罪
+
+zimado: 犯罪者
+
+form: 形
+
+kogxon：悩み
+
+pyerug: ピエロギ
+
+pom: 詩
+
+rekod: 記録
+
+saga: 物語
+
+abadi: 永遠
+
+adid: 過去
+
+nandi: 未来
+
+unmin: 運命
+
+mungkin: 可能性
+
+derok: 選択
+
+kosmos: 宇宙
+
+midi: 次元
+
+dando: 今日
+
+kaw:古さ
+
+kecir: 小ささ
+
+prek: 奇妙さ
+
+rumid: 複雑さ
+
+sapda: 週
+
+nadi: 分
+
+binadi: 秒
+
+aza: 朝
+
+porden: 昼
+
+nozi: 夜
+
+pinon: 兄弟
+
+zomyon: 姉妹
+
+deduka: 祖父
+
+babuka: 祖母
+
+fai: 雷
+
+hima: 雪
+
+duman: 霧
+
+karikqar : カレーライス
+
+kqar: 米
+
+yod: 必要性
+
+yunusanx: ユヌサンジュ
+
+cuw: 名前
+
+be: 腹
+
+capkod: 容姿が良いが話しすぎる人
+
+dagad: 太陽
+
+do：日
+
+fa：頭
+
+fim：終了
+
+haw：親方
+
+kipko：馬鹿
+
+korow: 王
+
+nap：悪
+
+nark:古さ
+
+paw: 行くこと
+
+sderk: 得意
+
+serop: 新しさ
+
+so: 牛
+
+sun: 瞬間
+
+yonsu:0
+
+nezaq:季節
+
+代名詞
+
+can：私
+
+nod：あなた
+
+kqi：彼/彼女
+
+canen：私たち
+
+noden：あなたたち
+
+kqen：彼ら/彼女ら
+
+es：それ
+
+ini：これ
+
+den：体
+
+kwa：道
+
+sok：種
+
+mox：霧
+
+bar：丘
+
+hak：希望
+
+kem：記憶
+
+sun：静寂
+
+dar：試み
+
+kor：怒り
+
+dam：歌
+
+kar：踊り
+
+sak：集まり
+
+bak：祝い
+
+dik：祈り
+
+形容詞
+
+godur：良い
+
+horoce：美しい
+
+kipda：幸せな
+
+kip：幸せな
+
+kqay：かわいい
+
+qur：曇り
+
+rek：小さい
+
+yay：大きい
+
+aroy：おいしい
+
+barad：安い
+
+karo: (値段などが)高い
+
+norp：広い
+
+erwane: 遠い
+
+yengmun: まばゆい
+
+norkda：驚いた
+
+sinuk: 興奮した
+
+dakud: 恐れた
+
+prek: 奇妙な
+
+rumid: 複雑な
+
+zen: 寒い
+
+ron: 暑い
+
+yagi: 長い
+
+kradki: 短い
+
+zungi: 重い
+
+refki: 軽い
+
+bisdri: 速い
+
+medreni: 遅い
+
+den: 赤
+
+sini: 青
+
+kyo: 緑
+
+ruan: 黄色
+
+kao: 白
+
+dam: 黒
+
+動詞
+
+afmund：元気づける
+
+caber：喋る
+
+fazer：作る
+
+funk：輝かせる
+
+fuqd：恐れる
+
+kazowaf：見上げる
+
+kinca：（心に）触れる
+
+madurog：寝る
+
+mes：食べる
+
+musi：遊ぶ
+
+nari：飛ばす
+
+xnazi：知る
+
+zanga：増える
+
+der: 持つ
+
+dok：落ちる
+
+dud：聞く
+
+dum：飲む
+
+dweda：なる
+
+kazow：見る
+
+pod: 脱ぐ
+
+seso: 勃起する
+
+sormond：説明する
+
+xar：嫌い
+
+yord: 開ける
+
+ac：考える、思う
+
+angraf：襲う、攻撃する
+
+karz：教える
+
+kdarag：追いかける
+
+waynam: 泳ぐ
+
+afdum：一気飲みする
+
+bor：呼ぶ
+
+boroned: 呼び出す
+
+goz：治す、直す
+
+humzi：盗む
+
+irhop：失う
+
+urd：泣く
+
+dern: 動く、歩く、走る
+
+diz：言う
+
+encad: 決める
+
+fruq：売る
+
+fur：逃げる
+
+giw：生きる
+
+pak：変える
+
+qarid：買う
+
+brink: 光る
+
+mok: ぼんやりする
+
+yaran: 探検する
+
+yeha: 旅する
+
+wander: さまよう
+
+dem: 時間を止める
+
+doran: 時間を戻す
+
+naga: 時間を進める
+
+kien: 書く
+
+an: 読む
+
+dawa: 与える
+
+bra: 取る
+
+pomo: 助ける
+
+yuda: 待つ
+
+sir: 始める
+
+konzi: 終わる
+
+wacay: 信頼する
+
+ihe: 理解する
+
+aphay: 許す
+
+konfik: 対立する
+
+yoqop: 協力する
+
+kunoy: 尊重する
+
+adiba: 説明する
+
+doron: 議論する
+
+bagi: 共有する
+
+swed: 光、明かり
+
+parankorid：ひらひらなびかせる
+
+mak：作る
+
+dak：置く
+
+kan：触る
+
+nan：感じる
+
+助動詞
+
+-wan：出来る
+
+-moz：かもしれない
+
+-yod：しなければならない
+
+-pon：したい
+
+-ron: している
+
+-zom: 始める
+
+数詞
+
+isa：1
+
+son：2
+
+sam：3
+
+ci：4
+
+ha：5
+
+hok：6
+
+zed：7
+
+ped：8
+
+kaw：9
+
+yon: 0
+
+接続詞
+
+og：〜と (共格の接頭辞として使用)
+
+de：しかし
+
+arx：だから
+
+ow: もしくは、或いは
+
+paydam: したがって
+
+ox：（状況――状態――仮定――条件）
+
+eso: ～から
+
+副詞
+
+nunda：現在
+
+nundanun：今この瞬間
+
+nune：今年
+
+nunxon：今世紀
+
+sepre：いつも
+
+nu: 今
+
+pari: 早い
+
+edardo: 毎日
+
+zon:前
+
+その他
+
+naqm：はい
+
+mawi：いいえ
+
+qoro：こんにちは
+
+cawris: ありがとう
+
+nawris: ごめん
+
+kesyo：さようなら
+
+kasyo：さようなら――お元気で行って下さい
+
+qa qe: （疑問形）
+
+raw：ではない
+
+xu：（副詞的な働きをし――補助的な文節や語などを示す）
+
+ax：（特定の語などを強調するため文頭に持ってきた際に――後に付けて使う）
+
+zod：（目的語が更に目的語を取る場合に動詞の後に置き――それを表す）
+
+we: 何故
+
+yo: (理由、要因)
+
+yop：隣
+
+odi: どこ
+
+onxe: いつ
+
+ano-: あの
+
+ino-: この
+
+mecmo：同じ
+
+omcem：違う
+
+zondo: 昨日
+
+-na-: (修飾)
+
+-dom: ～も
+
+-en: たち
+
+-eso: ～から
+
+接尾辞（時制など）
+
+-id：過去形
+
+-ek：未来形
+
+名詞
+
+cirze: 本当
+
+dusd: 荒くれ者
+
+okdusd: 海賊
+
+pyon: 病気
+
+awri: 木
+
+fruwin: 春
+
+nun: 雪
+
+arom: 感情
+
+kwage: 関係
+
+sakom: 社会的な
+
+ukci: 個人的な
+
+icwo: 自信
+
+empadi: 共感
+
+midra: 友情
+
+動詞
+
+cop: 好き
+
+seso: 勃起する
+
+swed: 光、明かり
+
+angraf: 襲う、攻撃する
+
+waynam: 泳ぐ
+
+afdum: 一気飲みする
+
+boroned: 呼び出す
+
+humzi: 盗む
+
+irhop: 失う
+
+pak: 変える
+
+qarid: 買う
+
+brink: 光る
+
+mok: ぼんやりする
+
+yaran: 探検する
+
+yeha: 旅する
+
+wander: さまよう
+
+tem: 時間を止める
+
+toron: 時間を戻す
+
+naga: 時間を進める
+
+kien: 書く
+
+an: 読む
+
+dawa: 与える
+
+bra: 取る
+
+pomo: 助ける
+
+yuda: 待つ
+
+sir: 始める
+
+konzi: 終わる
+
+wacay: 信頼する
+
+ihe: 理解する
+
+aphay: 許す
+
+konfik: 対立する
+
+yoqop: 協力する
+
+kunoy: 尊重する
+
+odkaz: 拒絶する
+
+yomdap: 受け入れる
+
+duki: サポートする
+
+形容詞
+
+kipda: 幸せな
+
+nap: 悪い
+
+nark: 古い
+
+surp: 悲しい
+
+erwane: 遠い
+
+yengmun: まばゆい
+
+norkda: 驚いた
+
+sinuk: 興奮した
+
+dakud: 恐れた
+
+zen: 寒い
+
+ron: 暑い
+
+yagi: 長い
+
+kradki: 短い
+
+zungi: 重い
+
+refki: 軽い
+
+bisdri: 速い
+
+medreni: 遅い
+
+den: 赤
+
+sini: 青
+
+kyo: 緑
+
+ruan: 黄色
+
+kao: 白
+
+dam: 黒
+
+kaw: 古い
+
+kecir: 小さい
+
+prek: 奇妙な
+
+rumid: 複雑な
+
+副詞
+
+nundanun: 今この瞬間
+
+その他
+
+od: （文のはじめに主語の代わりにおいて命令形を作る）
+
+zon: 前(時間的な)
+
+yo: （理由、要因）
+
+yop: 隣
+
+ano-: あの
+
+ino-: この
+
+wisdi: コミュニケーション
+
+odino: 孤独
+
+udes: つながり
+
+rak: 愛
+
+arom: 感情
+
+kwage: 関係
+
+ukci: 個人的な
+
+icwo: 自信
+
+empadi: 共感
+
+接尾辞
+
+-owan（～出来る）
+
+-kek (未来形)
+
+-did (過去形)
+
+助動詞
+
+-apon（～したい）
+
+-iyod（～しなければならない）
+
+###
+
+yak: 目
+
+hog: 鼻
+
+cmek: 舌
+
+ran: 耳
+
+tin: 歯
+
+mur: 口
+
+man: 手
+
+am: 腕
+
+reg: 脚
+
+tar: かかと
+
+bum: 臀部

@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>966note | Creative Playground</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;700;800&family=M+PLUS+1p:wght@400;500;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header class="site-header">
+        <nav class="site-nav" aria-label="メインナビゲーション">
+            <a class="logo" href="#home">
+                <img src="image/nonononono.png" alt="966note logo" width="40" height="40">
+                <span>966note</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#music">音</a></li>
+                <li><a href="#ai-images">Images</a></li>
+                <li><a href="#game">Game</a></li>
+                <li><a href="#newqolo">人工言語</a></li>
+                <li><a href="#downloads">Downloads</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero-section" aria-label="トップビジュアル">
+            <div class="hero-image-container">
+                <img src="image/IMAG0706.jpg" alt="Atmospheric Home Image" fetchpriority="high" class="hero-image">
+                <div class="hero-overlay">
+                    <div class="hero-text fade-in-up">
+                        <p class="hero-kicker">やっほ～</p>
+                        <h1>Welcome to 966note</h1>
+                        <p class="hero-description">なんかごちゃごちゃした倉庫</p>
+                        <a href="#about" class="button-link hero-cta">Explore</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="content-section scroll-animate">
+            <h2>About</h2>
+            <div class="about-content">
+                <p>なんかしてるひと</p>
+                <p>くろのとか名乗っている</p>
+                <div class="social-links" aria-label="SNSリンク">
+                    <a href="https://bsky.app/profile/966note.bsky.social" target="_blank" rel="noopener noreferrer"
+                        class="social-icon bluesky">
+                        <img src="image/Bluesky_Logo.svg" alt="Bluesky" width="30" height="30" loading="lazy">
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section id="music" class="content-section scroll-animate">
+            <h2>音</h2>
+            <p class="section-description">自作の音楽だよ～</p>
+            <div class="music-grid">
+                <article class="music-card">
+                    <div class="track-art art-one" aria-hidden="true">G♯</div><h3>G#</h3>
+                    <audio controls preload="none" aria-label="G#を再生">
+                        <source src="music/gsharp.mp3" type="audio/mpeg">
+                        お使いのブラウザは音声再生に対応していません。
+                    </audio>
+                </article>
+                <article class="music-card">
+                    <div class="track-art art-two" aria-hidden="true">✳</div><h3>キラキラ</h3>
+                    <audio controls preload="none" aria-label="キラキラを再生">
+                        <source src="music/kirakira_3.mp3" type="audio/mpeg">
+                        お使いのブラウザは音声再生に対応していません。
+                    </audio>
+                </article>
+                <article class="music-card">
+                    <div class="track-art art-three" aria-hidden="true">◐</div><h3>モノクロ</h3>
+                    <audio controls preload="none" aria-label="モノクロを再生">
+                        <source src="music/monooku_2.mp3" type="audio/mpeg">
+                        お使いのブラウザは音声再生に対応していません。
+                    </audio>
+                </article>
+            </div>
+            <div class="music-external">
+                <article class="music-card spotify-card">
+                    <h3>sushi_no_uta (Spotify)</h3>
+                    <iframe style="border-radius:12px"
+                        src="https://open.spotify.com/embed/track/43dkbwAmFqveceRsx4mW1W?utm_source=generator"
+                        width="100%" height="152" title="Spotifyでsushi_no_utaを聴く" frameBorder="0" allowfullscreen=""
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                        loading="lazy"></iframe>
+                </article>
+            </div>
+        </section>
+
+        <section id="ai-images" class="content-section scroll-animate">
+            <h2>AI Images</h2>
+            <p class="section-description">Creation &amp; Prototype</p>
+            <div class="image-grid">
+                <figure class="image-card">
+                    <img src="AIimage/00063-904622999.png" alt="AIイメージ 1" loading="lazy">
+                    <figcaption>AIイメージ 1</figcaption>
+                </figure>
+                <figure class="image-card">
+                    <img src="AIimage/00064-3548581932.png" alt="AIイメージ 2" loading="lazy">
+                    <figcaption>AIイメージ 2</figcaption>
+                </figure>
+                <figure class="image-card">
+                    <img src="AIimage/00066-4004862386.png" alt="AIイメージ 3" loading="lazy">
+                    <figcaption>AIイメージ 3</figcaption>
+                </figure>
+                <figure class="image-card">
+                    <img src="AIimage/00076-1726016617.png" alt="AIイメージ 4" loading="lazy">
+                    <figcaption>AIイメージ 4</figcaption>
+                </figure>
+                <figure class="image-card">
+                    <img src="AIimage/00080-1516898172.png" alt="AIイメージ 5" loading="lazy">
+                    <figcaption>AIイメージ 5</figcaption>
+                </figure>
+                <figure class="image-card">
+                    <img src="AIimage/00087-4202334265.png" alt="AIイメージ 6" loading="lazy">
+                    <figcaption>AIイメージ 6</figcaption>
+                </figure>
+                <figure class="image-card">
+                    <img src="AIimage/00088-1463450633.png" alt="AIイメージ 7" loading="lazy">
+                    <figcaption>AIイメージ 7</figcaption>
+                </figure>
+            </div>
+        </section>
+
+        <section id="game" class="content-section scroll-animate">
+            <h2>Game</h2>
+            <p class="section-description">ブラウザで遊べるゲーム。</p>
+            <div class="game-content card-style">
+                <div class="game-info">
+                    <h3>Roguelike Prototype</h3>
+                    <p>ダンジョン探索をテーマにした軽量なWebゲームです。短時間で遊べる設計にしています。</p>
+                </div>
+                <div class="link-container">
+                    <a href="roguel/index.html" target="_blank" rel="noopener noreferrer" class="button-link">Play Now</a>
+                </div>
+            </div>
+            <div class="game-content card-style">
+                <div class="game-info">
+                    <h3>Word Game Prototype</h3>
+                    <p>言葉遊びをテーマにしたゲームです。</p>
+                </div>
+                <div class="link-container">
+                    <a href="wordgame/WordGamePrototype.html" target="_blank" rel="noopener noreferrer" class="button-link">Play Now</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="newqolo" class="content-section scroll-animate">
+            <div class="section-title-wrapper">
+                <h2>人工言語</h2>
+                <span class="status-badge inactive">Project Inactive</span>
+            </div>
+            <p class="section-lead">かつて開発されていた人工言語「新クォロ語」の記録です。（※現在は更新を停止しています）</p>
+            <div class="summary card-style">
+                <article class="qolo-summary">
+                    <h3>新クォロ語（New Qolo）</h3>
+                    <p>旧体系を洗練し、論理的な構造と豊かな響きを両立させた人工言語です。</p>
+                    <ul class="qolo-highlight-list">
+                        <li><strong>柔軟な格体系</strong> 「ga-（主格）」「ru-（対格）」といった接頭辞により、文中の役割を明確にしつつ自由な語順を実現。</li>
+                        <li><strong>独自の反転規則</strong> 単語を逆から綴ることで対義語を生成するルール。例: <em>godur</em> [良] → <em>rudog</em> [悪]。
+                        </li>
+                        <li><strong>機能語 ko</strong> 分野や集合、抽象的な領域への所属を示す前置詞。意味の限定を論理的に行います。</li>
+                        <li><strong>多機能な述語</strong> 動詞の語幹に時制や可能の接尾辞を連結。簡潔ながら緻密な表現が可能です。</li>
+                    </ul>
+                </article>
+            </div>
+            <div class="link-container">
+                <a href="qolo.html" class="button-link">文法・規則の詳細を見る</a>
+            </div>
+        </section>
+
+        <section id="downloads" class="content-section scroll-animate">
+            <h2>Downloads</h2>
+            <div class="downloads-content">
+                <article class="download-item">
+                    <h3>Game Files</h3>
+                    <a href="game/C2.zip" download class="download-link">
+                        <span class="file-name">C2.zip</span>
+                        <span class="file-action">Download</span>
+                    </a>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 966note. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
